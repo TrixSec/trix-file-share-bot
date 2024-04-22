@@ -13,8 +13,6 @@ I Guess This Will Be Usefull For Many People.....😇.
 ##
 
 **If you need any more modes in repo or If you find out any bugs, mention in @zpgod (telegram) also join t.me/Trixsec
-**Make sure to see [contributing.md](https://github.com/CodeXBotz/File-Sharing-Bot/blob/main/CONTRIBUTING.md) for instructions on contributing to the project!**
-
 
 
 ### Features
